@@ -50,3 +50,4 @@ Bir xarid ikki marta yuborilsa ham `event_id` bir xil — Meta takrorni o'chirad
 
 ## Matnlar
 Barcha matnlar, brendlar, raqamlar, FAQ — `lib/site.ts`. Sahifa — `app/page.tsx`, dizayn — `app/globals.css`.
+# Diyor-Premium-santexnikalari
